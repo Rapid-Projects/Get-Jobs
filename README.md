@@ -13,9 +13,9 @@ void example_Jobs()
   sub_E29450(reinterpret_cast<char*>(sub_E00F50()), jobs);
   
   for (const auto& job : jobs)
-	{
-		std::cout << job->name << std::endl;
-	}
+  {
+    std::cout << job->name << std::endl;
+  }
 }
 ```
 
