@@ -10,7 +10,7 @@ It's very simple. Just implement the code in the header file into your exploit a
 void example_Jobs()
 {
   std::vector<std::shared_ptr<job_T>> jobs;
-	sub_E29450(reinterpret_cast<char*>(sub_E00F50()), jobs);
+  sub_E29450(reinterpret_cast<char*>(sub_E00F50()), jobs);
   
   for (const auto& job : jobs)
 	{
