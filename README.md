@@ -1,3 +1,5 @@
+We release tons of resources, including source files like Get-Jobs on our <a href="https://www.venesix.net">Website</a>, so be sure to check us out.
+
 ## What is Get-Jobs?
 
 Get-Jobs is another way for developers to interate through jobs in their Roblox Exploits.
