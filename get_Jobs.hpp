@@ -16,7 +16,7 @@ struct job_T
 }
 
 using sub_E29450_ = void(__thiscall*)(char* a1, std::vector<std::shared_ptr<job_T>>& a2);
-const auto sub_E29450 = reinterpret_cast<sub_E29450_>(rbx_Base + 0xE29450);
+const auto sub_E29450 = reinterpret_cast<sub_E29450_>(rbx_Base + 0xEA5590);
 
 using sub_E00F50_ = int(__cdecl*)();
-const auto sub_E00F50 = reinterpret_cast<sub_E00F50_>(rbx_Base + 0xE00F50);
+const auto sub_E00F50 = reinterpret_cast<sub_E00F50_>(rbx_Base + 0xE7D0C0);
