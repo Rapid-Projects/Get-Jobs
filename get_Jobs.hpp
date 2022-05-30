@@ -12,7 +12,7 @@ struct job_T
   vfunctable_T vfunctable;
   
   const std::uint8_t p_0[12];
-	const std::string name;
+  const std::string name;
 }
 
 using sub_E29450_ = void(__thiscall*)(char* a1, std::vector<std::shared_ptr<job_T>>& a2);
