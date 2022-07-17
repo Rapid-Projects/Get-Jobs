@@ -2,7 +2,7 @@ We release tons of resources, including source files like Get-Jobs on our <a hre
 
 ## What is Get-Jobs?
 
-Get-Jobs is another way for developers to interate through jobs in their Roblox Exploits.
+Get-Jobs is another way for developers to iterate through jobs in their Roblox Exploits.
 
 ## How do you use Get-Jobs?
 
